@@ -1,4 +1,4 @@
-### Annie's vimrc
+### Annie's Vim Config for Ruby on Rails 
 - author: Annie Dong
 
 ---
