@@ -8,3 +8,4 @@
 4. `cd vimconfig`
 5. `cp vimrc ~/.vimrc`
 6. `vim ~/.vimrc` & `:PluginInstall`
+7. `brew install ctags`
